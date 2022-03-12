@@ -1,0 +1,5 @@
+laravel 8
+auth
+mcamara
+spatie translation
+dashboard
